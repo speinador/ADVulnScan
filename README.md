@@ -1,4 +1,4 @@
-# Active Directory Vulnerability Scanner
+# Active Directory Vulnerability Scanner (ADVulnScan)
 
 Este proyecto es un escáner básico de vulnerabilidades comunes en controladores de dominio de Active Directory, utilizando `nmap` y scripts NSE.
 
