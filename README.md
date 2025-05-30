@@ -22,7 +22,7 @@ python ADVulnScan.py
 
 Luego ingresa la IP del controlador de dominio.
 
-## 🔧 Cómo instalar `smb-vuln-zerologon.nse` si no está incluido en Nmap
+### 🔧 Cómo instalar `smb-vuln-zerologon.nse` si no está incluido en Nmap
 
 1. Descarga el script desde:
    [https://github.com/dirkjanm/CVE-2020-1472/blob/master/nmap/smb-vuln-zerologon.nse](https://github.com/dirkjanm/CVE-2020-1472/blob/master/nmap/smb-vuln-zerologon.nse)
