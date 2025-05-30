@@ -17,7 +17,7 @@ Este proyecto es un escáner básico de vulnerabilidades comunes en controladore
 ## ▶️ Uso
 
 ```bash
-python ad_scanner.py
+python ADVulnScan.py
 ```
 
 Luego ingresa la IP del controlador de dominio.
