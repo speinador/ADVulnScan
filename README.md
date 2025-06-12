@@ -36,6 +36,18 @@ sudo nmap --script-updatedb
 
 En Windows, copia el archivo al directorio `scripts` dentro de la carpeta donde instalaste Nmap (por ejemplo, `C:\Program Files (x86)\Nmap\scripts`).
 
+---
+
+## 🧑‍🏫 Autor
+
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+
+---
+
 ## 📄 Licencia
 
-MIT License
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+
+---
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
